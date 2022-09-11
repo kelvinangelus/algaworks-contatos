@@ -1,1 +1,4 @@
-Meu primeito projeto spring boot; cadastro de pessoas; operações GET, POST, PUT e DELETE
+- Meu primeito projeto spring boot; 
+- cadastro de pessoas; 
+- operações GET, POST, PUT e DELETE
+- Java version: 11
